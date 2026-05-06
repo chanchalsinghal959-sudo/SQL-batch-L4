@@ -16,7 +16,7 @@ INSERT INTO employee (eid, ename, salary, department_name) VALUES
 (2,  'Emp2',  32000, 'HR'),
 (3,  'Emp3',  34000, 'HR'),
 (4,  'Emp4',  36000, 'HR'),
-(5,  'Emp5',  38000, 'HR'),
+(5,  'Emp5',  38000, 'HR'), 
 
 (6,  'Emp6',  50000, 'IT'),
 (7,  'Emp7',  52000, 'IT'),
