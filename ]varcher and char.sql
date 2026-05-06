@@ -11,7 +11,7 @@ insert into test10 values(1), (-128), (127);
 insert into test10 values(128);
 
 create table test11(id tinyint unsigned);
-insert into test11 values(129), (255);
+insert into test11 values(129), (255); 
 select * from test11;
 
 create table test12(price float);
