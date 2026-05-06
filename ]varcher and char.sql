@@ -14,7 +14,7 @@ create table test11(id tinyint unsigned);
 insert into test11 values(129), (255); 
 select * from test11;
 
-create table test12(price float);
+create table test12(price float); 
 insert into test12 values(9182.125), (10.120381232);
 select * from test12;
 
